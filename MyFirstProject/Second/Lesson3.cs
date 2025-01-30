@@ -7,6 +7,7 @@ namespace MyFirstProject
         public static void Run()
         {
             Console.WriteLine("Esto es la lección 3");
+            Console.WriteLine("Test");
         }
     }
 }
