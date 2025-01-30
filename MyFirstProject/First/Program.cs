@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleIO;
 using Execercise2;
 using Exercise1;
 
@@ -12,7 +13,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Odd_EvenChecker.Run(); 
+            Input_Ouput.Run(); 
 
             Console.ReadLine();
 
