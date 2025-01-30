@@ -10,14 +10,28 @@ namespace Modulus
     {
         static void Main(string[] args)
         {
-            int firstNum = 10;
-            int secondNum = 3;
+            //int age = 22;
+            var age = 22;
+            Console.WriteLine(age);
 
-            Console.WriteLine(firstNum % secondNum);
+            //long bigNumber = 488888l;
+            var bigNumber = 77777L;
+            Console.WriteLine(bigNumber);
 
-            Console.WriteLine(1000 % 90);
-            Console.WriteLine(100 % 90);
-            Console.WriteLine(71 % 10);
+            var negative = -3.4D;
+            Console.WriteLine(negative);
+
+            var precision = 5.000001F;
+            Console.WriteLine(precision);
+
+            var money = 14.99M;
+            Console.WriteLine(money);
+
+            var name = "name";
+            Console.WriteLine(name);
+
+            var letter = 'a';
+            Console.WriteLine(letter);
 
             Console.ReadLine();
         }
