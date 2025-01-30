@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Odd_EvenChecker.cs" />
     <Compile Include="Second\Const_Keyword.cs" />
     <Compile Include="First\Program.cs" />
     <Compile Include="Second\Lesson2.cs" />
