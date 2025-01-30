@@ -10,13 +10,25 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            bool value = true;
+            double age = 10;
+            // + - * /
 
-            bool isMale = true;
-            Console.WriteLine(isMale);
+            age /= 3;
+            Console.WriteLine(age);
 
-            isMale = false;
-            Console.WriteLine(isMale);
+            string name = "Ema";
+            name += " is programming!";
+            
+            char ch = 'a';
+            ch += 'b';
+            Console.WriteLine(ch);
+
+            Console.WriteLine(name);
+
+            int i = 0;
+            i++;
+            Console.WriteLine(i);
+
 
             Console.ReadLine();
         }
