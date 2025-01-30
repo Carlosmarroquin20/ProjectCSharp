@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Exercise1;
 
 namespace MyFirstProject
 {
@@ -10,9 +11,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-
-            //Lesson2.Run();
-            Const_Keyword.Run(); 
+            StoringUserData.Run(); 
 
             Console.ReadLine();
 

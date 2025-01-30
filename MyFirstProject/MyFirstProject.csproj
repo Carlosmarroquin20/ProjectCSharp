@@ -48,6 +48,7 @@
     <Compile Include="Second\Lesson2.cs" />
     <Compile Include="Second\Lesson3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Second\StoringUserData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
