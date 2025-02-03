@@ -20,6 +20,9 @@ namespace ConsoleIO
 
             Console.WriteLine("Mi name is: " + name + " and my age is: " + age);
 
+
+            Console.WriteLine();
+
             Console.ReadLine();
         }
     }
