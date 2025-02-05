@@ -13,7 +13,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Switch.Run(); 
+            CalculatorExample.Run(); 
 
             Console.ReadLine();
 
