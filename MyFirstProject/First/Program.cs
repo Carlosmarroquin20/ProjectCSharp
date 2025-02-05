@@ -13,7 +13,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            IfState2.Run(); 
+            Switch.Run(); 
 
             Console.ReadLine();
 

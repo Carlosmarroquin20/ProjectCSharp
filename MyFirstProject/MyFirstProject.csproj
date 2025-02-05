@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Third\Switch.cs" />
     <Compile Include="Third\IfState.cs" />
     <Compile Include="Second\Input_Ouput.cs" />
     <Compile Include="Second\Odd_EvenChecker.cs" />
