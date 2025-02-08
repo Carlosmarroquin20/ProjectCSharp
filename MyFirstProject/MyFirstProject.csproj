@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculatorExample.cs" />
+    <Compile Include="Third\CalculatorExample.cs" />
+    <Compile Include="Third\For.cs" />
     <Compile Include="Third\Switch.cs" />
     <Compile Include="Third\IfState.cs" />
     <Compile Include="Second\Input_Ouput.cs" />
